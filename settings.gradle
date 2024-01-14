@@ -15,7 +15,7 @@
 //}
 
 // 低版本 方式
-rootProject.name = "AndroidInsertFlutter"
+rootProject.name = "Android Insert Flutter"
 include ':app'
 setBinding(new Binding([gradle: this]))
 evaluate(new File(
